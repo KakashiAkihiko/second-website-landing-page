@@ -54,3 +54,4 @@ I will structure the site much like The Odin Project suggests the structure - me
 References :
 logoWhite.png <-- Created on www.UCraft.com
 video-game-controller.png <-- Rafael Javier on www.Pixabay.com
+Mountains1.jpg -> mountains5.jpg <-- BiancaVanDijk on www.Pixabay.com
